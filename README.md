@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-  Além dessas skills, você pode conferir meus projetos e contribuições no meu <a href="https://oliveiradeflavio.github.io" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
+  Além dessas skills, você pode conferir meus projetos e contribuições no meu <a href="https://flaviooliveira-code.github.io" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
 </p>

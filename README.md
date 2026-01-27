@@ -12,7 +12,3 @@
 <img alt="Selenium" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" title="Selenium" />
 <img alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="Typescript" />
 </p>
-
-<p align="center">
-  Além dessas skills, você pode conferir meus projetos e contribuições no meu <a href="https://flaviooliveira-code.github.io" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
-</p>

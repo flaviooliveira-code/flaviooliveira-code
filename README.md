@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-Desenvolvedor Full Stack com mais de 10 anos de experiência em tecnologia, atuando na arquitetura, modernização e evolução de sistemas. Experiência sólida no desenvolvimento de aplicações web, mobile e APIs escaláveis, automação de processos e integração entre sistemas. Perfil orientado a boas práticas de engenharia de software, performance e arquitetura limpa.
+Desenvolvedor Full Stack com mais de 10 anos de experiência em tecnologia, atuando na arquitetura, modernização e evolução de sistemas. Experiência sólida no desenvolvimento de aplicações web, mobile e APIs escaláveis, automação de processos e integração entre sistemas.
 
 ---
 
@@ -57,8 +57,3 @@ Desenvolvedor Full Stack com mais de 10 anos de experiência em tecnologia, atua
 ## 🌐 Sociais 
 
 <a href="https://linkedin.com/in/fladoliveira" rel="nofollow"><img src="https://camo.githubusercontent.com/bd67bf4d79a3a9f301799e4b5e995861815cbc375f48be946a45b10ff28fc54a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-
-
----
-
-> “Código de qualidade é melhor do que código em quantidade.”

@@ -1,6 +1,6 @@
 ## 👋 Sobre mim
 
-Desenvolvedor Full Stack com mais de 10 anos de experiência em tecnologia, atuando na arquitetura, modernização e evolução de sistemas. Experiência sólida no desenvolvimento de aplicações web, mobile e APIs escaláveis, automação de processos e integração entre sistemas.
+Desenvolvedor Full Stack com mais de 10 anos de experiência em tecnologia, atuando na arquitetura, modernização e evolução de sistemas. Atuo com modernização de sistemas, automações, arquitetura de software e desenvolvimento de produtos digitais utilizando React, Next.js, Node.js, PHP, Python e .NET.
 
 ---
 
